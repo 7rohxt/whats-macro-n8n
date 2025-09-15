@@ -5,7 +5,7 @@
 
 ## Demo
 
-![Demo GIF](assets/demo.gif)  
+![Demo GIF](assets/whats_demo.gif)  
 
 ## Workflow Architecture
 
